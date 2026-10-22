@@ -1,0 +1,8 @@
+serving = 11
+remaining = 6
+value = 7
+while serving:
+    idx = 1
+    while idx <= 6:
+        count = remaining // value
+        idx += 1

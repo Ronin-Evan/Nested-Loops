@@ -1,0 +1,5 @@
+total_100 = 8
+for slot in range(1, 7):
+    total = total_100
+    for note in range(total):
+        print('=', end='')

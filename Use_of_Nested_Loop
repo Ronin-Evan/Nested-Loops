@@ -1,0 +1,9 @@
+serving = 10
+idx = 3
+total = 8
+while serving:
+    while idx <= 6:
+        ...
+for slot in range(1, 7):
+    for note in range(total):
+        ...
